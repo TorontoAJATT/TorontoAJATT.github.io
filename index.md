@@ -8,6 +8,8 @@ title: Home
 This is my new blog where ill talk a little bit about week to week about my AJATT progress, as a highschool student.
 ---
 
-## Weekly Logs
+## Weekly AJATT Progress
 
-- [Week 1](/week-1/)
+- [Week 1 Progress](/week-1/)
+- [Week 2 Progress](/week-2/)
+- [Week 3 Progress](/week-3/)
